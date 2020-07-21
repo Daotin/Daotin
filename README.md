@@ -32,7 +32,9 @@
 <br>
 
 
-![Daotin's github stats](https://github-readme-stats.vercel.app/api?username=Daotin&show_icons=true&hide_border=true)
+<p align="left" >
+<img src="https://github-readme-stats.vercel.app/api?username=Daotin&show_icons=true&hide_border=true" />
+</p>
 
 
 <br>
