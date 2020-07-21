@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<p align="center" >
-<img width="300px" src="https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" />
-</p>
+<div>
+  <img width="300px" src="https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Daotin&show_icons=true&hide_border=true" />
+</div>
 
 <br>
 
@@ -29,12 +31,6 @@
   </a>
 </div>
 
-<br>
-
-
-<p align="left" >
-<img src="https://github-readme-stats.vercel.app/api?username=Daotin&show_icons=true&hide_border=true" />
-</p>
 
 
 <br>
