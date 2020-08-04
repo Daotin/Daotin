@@ -1,13 +1,4 @@
 ### Hi there 👋
-
-<div>
-  <img width="300px" src="https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Daotin&show_icons=true&hide_border=true" />
-</div>
-
-<br>
-
 ### About Me😃
 
 <p>
@@ -16,21 +7,7 @@
   </em>  
 </p>
 
-<div>
-<!--   <a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/DaotinV">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:daotingfeng@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a> -->
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Daotin&show_icons=true&hide_border=true" />
 
 
 <br>
