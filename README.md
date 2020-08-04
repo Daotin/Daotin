@@ -2,7 +2,7 @@
 
 <p>
   <em>
-一名有三年开发经验的<b>前端工程师</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ，爱好开源与分享<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">。有时候又是一个又酷又作又潇洒的<strong>反派角色</strong>！<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+一名有三年开发经验的<b>前端工程师</b> ，爱好开源与分享。有时候又是一个又酷又作又潇洒的<strong>反派角色</strong>！
   </em>  
 </p>
 
