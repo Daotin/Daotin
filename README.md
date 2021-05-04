@@ -11,4 +11,4 @@
 🎨 业余时间研究下副业，投资理财相关内容。
 
 
-公众号：[前端队长](https://images.cnblogs.com/cnblogs_com/lvonve/1607764/o_gzh.jpg) ，相信有趣的人终会相遇！ 😊
+公众号：[前端队长](https://images.cnblogs.com/cnblogs_com/lvonve/1962742/o_210417044500gzh.png) ，相信有趣的人终会相遇！ 😊
