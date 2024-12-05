@@ -7,6 +7,7 @@ Front-end Developer
 * 🌍  I'm based in Wuhan,Hubei
 * ✉️  You can contact me at [daotin@qq.com](mailto:daotin@qq.com)
 * ⚡  My Blog is https://daotin.github.io
+* ⭐  My technical column is https://daotin.github.io/fe-series-notes
 
 ### Skills
 
