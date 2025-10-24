@@ -1,9 +1,9 @@
 <div align="center">
   <samp>
-    <a href="https://daotin.github.io">blog</a> .
-    <a href="https://daotin.github.io/fe-series-notes">technical column</a> .
-    <a href="https://daotin.github.io/pages/project.html">projects</a> .
-    <a href="https://juejin.cn/user/2084329777534216">juejin</a>
+    <a target="_blank" href="https://daotin.github.io">blog</a> .
+    <a target="_blank" href="https://daotin.github.io/fe-series-notes">technical column</a> .
+    <a target="_blank" href="https://daotin.github.io/pages/project.html">projects</a> .
+    <a target="_blank" href="https://juejin.cn/user/2084329777534216">juejin</a>
   </samp>
 </div>
 
