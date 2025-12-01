@@ -1,7 +1,7 @@
 <div align="center">
   <samp>
     <a href="https://daotin.github.io">Blog</a> .
-    <a href="https://daotin.github.io/fe-series-notes">Technical Column</a> .
+    <a href="https://github.com/Daotin/obsidian-notes">Technical Column</a> .
     <a href="https://daotin.github.io/pages/project.html">Projects</a> .
     <a href="https://juejin.cn/user/2084329777534216">Juejin</a> .
     <a href="https://web.okjike.com/u/36943804-21A5-4DF8-A436-92189123DD89">Jike</a>
